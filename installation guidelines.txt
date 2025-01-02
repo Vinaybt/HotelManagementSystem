@@ -6,3 +6,5 @@ Admin Login
 Url: http://localhost/Hotel_Management_System/admin/index.php
 User Name: admin@gmail.com
 Password: admin
+
+This is a hotel management system website.
